@@ -1,6 +1,6 @@
 <h1>
     <?php
-    $greeting = "Hello welcome the website please sign in and check out the info";
-    echo $greeting
+    $greeting = "Hello welcome to the site please sign up for more info";
+    echo $greeting;
     ?>
 </h1>

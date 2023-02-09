@@ -1,35 +1,30 @@
 <?php
 print_r($_GET);
 print_r($_POST);
-$firstName = htmlspecialchars($_GET['first']);
-// The htmlspecialchars() function converts special characters to HTML entities. 
-// This means that it will replace HTML characters like < and > with &lt; and &gt;. 
-// This prevents attackers from exploiting the code by injecting HTML or Javascript code 
-// (Cross-site Scripting attacks) in forms.
-$lastName = $_GET['last'];
-$email = $_GET['email'];
+// $firstName = htmlspecialchars($_GET['first']);
+// $lastName = $_GET['last'];
 
-$firstName = filter_input(INPUT_GET, 'first', FILTER_SANITIZE_SPECIAL_CHARS);
-$lastName = filter_input(INPUT_GET, 'last', FILTER_SANITIZE_SPECIAL_CHARS);
-$email = filter_input(INPUT_GET, 'email', FILTER_SANITIZE_EMAIL);
-
-echo $firstName;
-echo $lastName;
+// $firstName = filter_input(INPUT_GET, 'first', FILTER_SANITIZE_STRING);
 
 // if (!empty($firstName) && !empty($lastName)) {
 //     echo $firstName;
 //     echo $lastName;
 // } else {
-//     echo "Please fill the names";
+//     echo "Please fill the first name & last name";
 // }
 
-if (isset($_GET['first']) && ($_GET['last'])) {
-    $firstName = htmlspecialchars($_GET['first']);
-    $lastName = htmlspecialchars($_GET['last']);
+
+if (isset($_POST['first']) && isset($_POST['last'])) {
+    $firstName = htmlspecialchars($_POST['first']);
+    $lastName = htmlspecialchars($_POST['last']);
+
+    echo $firstName;
+    echo $lastName;
 } else {
-    echo "not set!";
+    echo "first and last names are not set";
 }
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -44,19 +39,14 @@ if (isset($_GET['first']) && ($_GET['last'])) {
 
 <body>
     <h1>Web Processor</h1>
-    <form action="<?php echo $_SERVER['PHP_SELF']
-                    //The $_SERVER["PHP_SELF"] is a super global variable that returns the filename of the currently executing script. 
-                    ?> ">
+    <form action="<?php echo $_SERVER['PHP_SELF'] ?>">
         <label for="first">First Name:</label>
         <input type="text" id="first" name="first" autocomplete="off">
         <label for="last">Last Name:</label>
         <input type="text" id="last" name="last" autocomplete="off">
-        <label for="email">Email:</label>
-        <input type="text" id="email" name="email" autocomplete="off">
         <div>
-            <button type="submit">Submit</button>
-            <button type="submit" formmethod="post">Submit using POST</button>
-            <button type="reset">Reset</button>
+            <button type="submit">Get Data</button>
+            <button type="submit" formmethod="post">Post Data</button>
         </div>
     </form>
 </body>

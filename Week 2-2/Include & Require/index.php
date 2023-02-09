@@ -10,18 +10,15 @@
 </head>
 
 <body>
-    <?php // require('./view/header.php') //defiantly needed the code won't execute without the file 
-    ?>
-    <?php // include_once('./view/header.php') //U can include once 
-    ?>
-    <?php include('./view/altheader.php')
-    ?>
-    <?php // include('./view/header.php') 
+    <?php include("./view/altheader.php") ?>
+    <?php include_once("./view/altheader.php") ?>
+    <?php // require("./view/header.php") 
     ?>
     <main>
-        <h1>This is main content</h1>
+        <h1>This is a main</h1>
     </main>
-    <?php include('./view/footer.php') ?>
+    <?php include("./view/footer.php") ?>
+
 </body>
 
 </html>
