@@ -1,0 +1,9 @@
+04-06-2023	12:17:51 	 4902762e-9fda-4a4f-8b22-2582b5a0574d 	 GET 	 undefined 	 /index.html 
+04-06-2023	12:17:51 	 2a2c2279-98a3-47b5-9c79-42bad5516cb7 	 GET 	 undefined 	 /favicon.ico 
+04-06-2023	12:18:56 	 3d842cd1-18e0-4628-a56c-82d7eee048e5 	 GET 	 undefined 	 /index.html 
+04-06-2023	12:18:56 	 16099208-e737-411a-9471-0f62076e4c5c 	 GET 	 undefined 	 /css/style.css 
+04-06-2023	12:18:56 	 f0eabe0f-0410-4422-95fa-effe16024949 	 GET 	 undefined 	 /favicon.ico 
+04-06-2023	12:19:04 	 c3bb833d-fde7-44fa-a410-59faef28ca05 	 GET 	 undefined 	 /new-page.html 
+04-06-2023	12:19:04 	 d6342a19-2abb-4dd7-bb32-c8dec724dc9d 	 GET 	 undefined 	 /img/img1.jpg 
+04-06-2023	12:19:04 	 1c66a915-1534-458e-97ab-0f714abb3cd8 	 GET 	 undefined 	 /css/style.css 
+04-06-2023	12:19:04 	 e6590fc6-dcaa-4ab5-92a8-cbed8d361324 	 GET 	 undefined 	 /favicon.ico 
