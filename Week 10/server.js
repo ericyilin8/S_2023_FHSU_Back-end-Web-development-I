@@ -3,10 +3,17 @@ const fs = require("fs");
 const path = require("path");
 const fsPromises = require("fs").promises;
 const http = require("http");
+const { myEvent } = require(".") //event logs
+
+
 
 const serveFile = async (filePath, contentType, response) => {
   try {
-    const rawData = await fsPromises.readFile(filePath, "utf-8");
+    let rawData;
+    if(contentType == "text/html" )
+    rawData = await fsPromises.readFile(filePath, "utf-8");
+    else
+    rawData = await fsPromises.readFile(filePath);
     const data =
       contentType === "application/json" ? JSON.parse(rawData) : rawData;
     response.writeHead(200, { "Content-Type": contentType });
@@ -22,7 +29,8 @@ const serveFile = async (filePath, contentType, response) => {
 };
 
 const server = http.createServer((req, res) => {
-  console.log(req.url);
+  myEvent.emit("log", "request for: " + req.url);
+  console.log("request for: " + req.url);
   //   Send back the status code
   //   res.statusCode = 200;
   //   res.setHeader("Content-Type", "text/html");

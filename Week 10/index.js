@@ -8,5 +8,7 @@ myEvent.on("log", (msg) => {
 });
 
 setTimeout(() => {
-  myEvent.emit("log", "Log Event Emitted");
-}, 2000);
+  myEvent.emit("log", "Logging events in logs/eventLogs.txt");
+}, 0);
+
+exports.myEvent = myEvent

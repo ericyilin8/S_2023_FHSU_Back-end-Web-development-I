@@ -1,0 +1,10 @@
+pseudocode!
+
+ use readfile(sync) and fs.exists(sync)
+
+if content type is text/html
+
+then encoding is utf8
+
+otherwise no encoding
+

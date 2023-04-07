@@ -2,3 +2,39 @@
 03-29-2023 	 08:17:28 	 c91e6f90-d8e9-4ec2-9e1b-57585c35d855 	 Log Event Emitted 
 03-29-2023 	 09:52:22 	 d6baf7f0-fc9c-4a2c-b2c3-5adf1a143038 	 Log Event Emitted 
 03-29-2023 	 09:53:09 	 82126ce3-f43c-4828-a535-267ad3e44191 	 Log Event Emitted 
+04-07-2023 	 05:44:11 	 119f9d85-56d2-4e1d-bbd0-062d8ddea6c7 	 Log Event Emitted 
+04-07-2023 	 05:47:25 	 82ec0ed9-cf8b-47ac-bdb2-857b36d7315f 	 Log Event Emitted 
+04-07-2023 	 05:49:06 	 192c5033-a2d3-484e-a939-5328a90b1400 	 Log Event Emitted 
+04-07-2023 	 05:51:12 	 b9dd3f9f-68f7-4918-a99c-c2a8d1b71711 	 Log Event Emitted 
+04-07-2023 	 05:52:57 	 ca64aebb-d267-438b-a83c-7a6ad56e39fe 	 Log Event Emitted 
+04-07-2023 	 06:02:53 	 07b45031-05f9-45b9-a3d6-b1f4eb752826 	 Log Event Emitted 
+04-07-2023 	 06:04:24 	 1b7307ed-01ac-4f53-8ba7-1f633fd3c5b9 	 Log Event Emitted 
+04-07-2023 	 06:05:50 	 035f9707-51f3-4039-ba7f-c3a43234d684 	 Log Event Emitted 
+04-07-2023 	 06:07:01 	 011631bb-f6d5-4efc-8f9b-9f842a77b5cd 	 Log Event Emitted 
+04-07-2023 	 06:07:31 	 e20a538c-8ce0-4364-941b-c502879fb7b7 	 Log Event Emitted 
+04-07-2023 	 06:08:37 	 e427dbff-9861-4c57-b16f-dd84d33cb1c6 	 Log Event Emitted 
+04-07-2023 	 06:09:21 	 2772a8e0-db8b-4ddb-be8e-bf1d9e4fce12 	 Log Event Emitted 
+04-07-2023 	 06:10:26 	 3f6c0a0c-aad1-4395-95aa-4aa9a9a80d8a 	 Log Event Emitted 
+04-07-2023 	 06:10:27 	 0e4d488a-2409-4915-8cc5-b590b3d6008b 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\images\example.png 
+04-07-2023 	 06:10:27 	 5e32c297-3694-419f-819d-86133709cd2f 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\404.html 
+04-07-2023 	 06:10:27 	 02aba04e-82f8-4881-9037-62e1f191721d 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\images\example.png 
+04-07-2023 	 06:10:27 	 99fc601b-3133-4084-8dde-f04db9ad24f3 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\404.html 
+04-07-2023 	 06:10:37 	 f18ca14c-064e-4aa8-a512-2c693ab7e92a 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\index.html 
+04-07-2023 	 06:10:37 	 5e941941-c1c9-4ce9-853d-adbf91af1801 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\404.html 
+04-07-2023 	 06:12:38 	 888a55cd-7f2c-490a-b5a3-332e613b8b65 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\index.html 
+04-07-2023 	 06:12:38 	 eee79611-a914-446d-abab-1190cdc120a3 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\404.html 
+04-07-2023 	 06:12:38 	 975917f4-1124-4563-a14d-67483d8af665 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\index.html 
+04-07-2023 	 06:12:38 	 cf520b61-cb27-45fc-a677-f8fc2794ee55 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\404.html 
+04-07-2023 	 06:12:58 	 3e395c7b-664c-45f0-8e25-18f6136ba9d4 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\index.html 
+04-07-2023 	 06:12:58 	 b33db999-ee31-4c27-ac06-eb0f1f5e6d67 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\404.html 
+04-07-2023 	 06:12:58 	 08066be1-19ac-403d-800f-b0ad498d726d 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\index.html 
+04-07-2023 	 06:12:58 	 b68521c3-ca78-4c32-98a4-347515c5ed5e 	 serveFile:C:\Users\ericy\OneDrive\Documents\GitHub\S_2023_FHSU_Back-end-Web-development-I\Week 10\views\404.html 
+04-07-2023 	 06:13:04 	 077da93b-7f3b-4f99-a9c2-ef5840f7f273 	 Logging events in logs/eventLogs.txt 
+04-07-2023 	 06:14:02 	 09c58368-3d2a-4045-bddc-dc3b7275a432 	 Logging events in logs/eventLogs.txt 
+04-07-2023 	 06:14:07 	 39048bae-c5e8-4741-9a18-8e192f14d2b1 	 request for: / 
+04-07-2023 	 06:14:07 	 18551fa2-a4dd-430f-9e84-de23ffb69de8 	 request for: /favicon.ico 
+04-07-2023 	 06:14:34 	 23f22a27-1db8-4659-bf17-8463964aabff 	 Logging events in logs/eventLogs.txt 
+04-07-2023 	 06:14:36 	 b8689ca2-2f62-443c-8812-35ed0c28c24e 	 request for: / 
+04-07-2023 	 06:14:36 	 2518ac10-65b1-4439-a8de-ff084edcaff9 	 request for: /favicon.ico 
+04-07-2023 	 06:14:40 	 e69e7176-a7b8-4715-a62c-afad3f713e86 	 request for: /images/example.png 
+04-07-2023 	 06:14:40 	 6c1a6a23-f6ae-45b8-89ab-3ccde87d88a3 	 request for: /favicon.ico 
