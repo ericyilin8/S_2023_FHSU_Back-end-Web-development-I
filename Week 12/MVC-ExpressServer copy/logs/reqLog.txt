@@ -94,3 +94,13 @@
 04-13-2023	02:36:15 	 4bf45983-4dc3-4eaf-b2c6-b48a3695c5d6 	 GET 	 undefined 	 /new-page.html 
 04-13-2023	02:36:15 	 142a2a35-e113-437d-9d76-9cddb9697746 	 GET 	 undefined 	 /css/style.css 
 04-13-2023	02:36:15 	 b190446c-10ef-4cce-9e26-ea7d3cf5cd48 	 GET 	 undefined 	 /img/img1.jpg 
+04-13-2023	05:35:19 	 d35e5284-6ba2-461a-80e1-a719d2b62391 	 GET 	 undefined 	 / 
+04-13-2023	05:35:55 	 c25d784d-839b-4a73-98db-d36b2d078bdf 	 GET 	 undefined 	 /employees 
+04-13-2023	05:36:31 	 989dc517-043b-436c-aa5b-12df6c8a35a0 	 POST 	 undefined 	 /employees 
+04-13-2023	05:37:29 	 ef869054-9f5c-49a8-9e42-6b4306f4d9e1 	 PUT 	 undefined 	 /employees 
+04-13-2023	05:37:47 	 92bd9ad4-ea8b-4281-95ec-b5f67cce7ea0 	 POST 	 undefined 	 /employees 
+04-13-2023	05:37:52 	 49133248-b5f8-4972-b1a9-fefcd04797ce 	 GET 	 undefined 	 /employees 
+04-13-2023	05:38:18 	 1d28ce3d-d92e-4b49-900c-b16eeab9279e 	 DELETE 	 undefined 	 /employees 
+04-13-2023	05:38:25 	 d751365a-9c6b-4b40-b81a-9ba12881bbc8 	 GET 	 undefined 	 /employees 
+04-13-2023	05:38:49 	 9e3cb363-057b-471d-9b96-c873e016e07c 	 GET 	 undefined 	 /employees/6438843b4c30a961e561e470 
+04-13-2023	05:39:16 	 8ff1f35f-5278-4baa-a6f3-dba157d6f37a 	 GET 	 undefined 	 /employees/643883ef4c30a961e561e46c 
